@@ -21,14 +21,10 @@ So the only thing left to do here is to remember how to actually build API! I fo
 ```
 import time
 from ar_corrector.corrector import Corrector
-
 corr = Corrector()
-
 start = time.time()
-
 corr.spell_correct('بختب')
-
 end = time.time()
-
 print(end - start)
 ```
+![Screenshot from 2024-01-29 18-33-12](https://github.com/Aml-Hassan-Abd-El-hamid/Arabic-spelling-checker-extension/assets/66205928/accd9ab1-e3ec-44c2-a0fb-ffb5152e4580)
