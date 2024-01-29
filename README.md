@@ -1,0 +1,1 @@
+# Arabic-spelling-checker-extension
