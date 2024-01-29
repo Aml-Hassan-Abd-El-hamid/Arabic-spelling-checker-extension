@@ -30,3 +30,6 @@ end = time.time()
 print(end - start)
 ```
 ![Screenshot from 2024-01-29 18-33-12](https://github.com/Aml-Hassan-Abd-El-hamid/Arabic-spelling-checker-extension/assets/66205928/accd9ab1-e3ec-44c2-a0fb-ffb5152e4580)
+
+
+![Screenshot from 2024-01-29 18-56-46](https://github.com/Aml-Hassan-Abd-El-hamid/Arabic-spelling-checker-extension/assets/66205928/51b505c5-9b6f-4dec-84de-bf44eb4518b0)
