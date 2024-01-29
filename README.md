@@ -17,9 +17,9 @@ So the only thing left to do here is to remember how to actually build API! I fo
 1- [Flask essential training](https://www.linkedin.com/learning/flask-essential-training)<br>
 2- [Building RESTful APIs with Flask](https://www.linkedin.com/learning/building-restful-apis-with-flask)
 
-Although initially, I used the Python `time` module to measure how much time ar_corrector takes to return the correct words, I made sure again of the API response time using Postman -a tool that I only used once upon a time during some college project- and it was confirmed that the response time about 10 ms.
+Although initially, I used the Python `time` module to measure how much time ar_corrector takes to return the correct words, I made sure again of the API response time using Postman and it was confirmed that the response time about 10 ms.
 
-### Note: That's how I measured the time
+### That's how I measured the time
 ```
 import time
 from ar_corrector.corrector import Corrector
